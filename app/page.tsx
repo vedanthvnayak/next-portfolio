@@ -34,7 +34,7 @@ const Home: React.FC = () => {
           className="text-center mt-8 space-y-4"
         >
           <p className="text-white text-base sm:text-lg md:text-xl">
-            If you are not a CS person, don&apos;t worry! 😅
+            If you are not a CS person, don&apos;t worry! 😅 👇
           </p>
 
           <motion.button
